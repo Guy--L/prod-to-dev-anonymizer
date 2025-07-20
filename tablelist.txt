@@ -1,0 +1,9 @@
+# Example table list for production to development anonymization
+# Format: DatabaseName.SchemaName.TableName
+# Lines starting with # are comments and will be ignored
+
+Portal.dbo.ContactImport
+Portal.dbo.Customer
+Portal.dbo.Note
+Portal.dbo.Address
+Portal.dbo.UserProfile
